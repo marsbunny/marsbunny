@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marsbunny
+- 👋 Hi, I’m @marsbunny AKA Kennedy
 - 👀 I’m love coding, basketball, and band.
 - 🌱 I’m currently learning how to code my very own app.
 - 💞️ I’m looking to collaborate on my school projects.
